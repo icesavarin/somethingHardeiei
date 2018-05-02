@@ -11,7 +11,7 @@
 <!-- Bootstrap styles -->
 </head>
 <body>
-<?php include("header2.php"); ?>
+<?php include("header1.php"); ?>
   <div>
     <h1>Name</h1>
     <hr>
